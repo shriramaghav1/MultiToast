@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+
+.App{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;    
+}
+@tailwind utilities;
